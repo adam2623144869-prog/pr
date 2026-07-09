@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.pr-pr{
+    text-align: center;
+    margin: 35px;
+}
+
+#pr-t{
+    margin-bottom: 20px;
+}
+
+.pr-pr img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#imgi{
+    background-color: azure;
+}
